@@ -50,7 +50,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#StartGarten"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/rybaos.github.io\/E53A\/map.json#StartGarten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -86,7 +86,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#StartKeller"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/rybaos.github.io\/E53A\/map.json#StartKeller"
                 }],
          "type":"tilelayer",
          "visible":true,

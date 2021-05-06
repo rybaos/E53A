@@ -79,7 +79,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"keller.json#StartGarten"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/rybaos.github.io\/E53A\/keller.json#StartGarten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -97,7 +97,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"keller.json#StartHaus"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/rybaos.github.io\/E53A\/keller.json#StartHaus"
                 }],
          "type":"tilelayer",
          "visible":true,
